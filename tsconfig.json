@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "noEmitOnError": true,
+        "declaration": true
+    },
+    "exclude": [
+        "node_modules",
+        "jspm_packages",
+        "dist"
+    ]
+}
